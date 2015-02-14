@@ -23,7 +23,6 @@ def makeMove(val):
         val = "X"
     elif lastMove == "X":
         val = "O"
-    print(lastMove, val)
     printBoard()
     while True:
         print("At which number would you like to place a ",val,"?")
