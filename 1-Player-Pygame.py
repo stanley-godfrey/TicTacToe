@@ -36,7 +36,7 @@ wins = [[(0, 0), (0, 1), (0, 2)], [(1, 0), (1, 1), (1, 2)], [(2, 0), (2, 1), (2,
         [(0, 0), (1, 0), (2, 0)], [(0, 1), (1, 1), (2, 1)], [(0, 2), (1, 2), (2, 2)],
         [(0, 0), (1, 1), (2, 2)], [(0, 2), (1, 1), (2, 0)]]
 
-theme = pygame.mixer.music.load('bensound-buddy.mp3')
+theme = pygame.mixer.music.load('Resources/bensound-buddy.mp3')
 pygame.mixer.music.play(-1)
 # </editor-fold>
 
